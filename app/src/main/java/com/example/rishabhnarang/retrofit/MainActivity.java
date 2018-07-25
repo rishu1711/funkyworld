@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //some changes
 
         final ListView listView = findViewById(R.id.listView);
 //        OkHttpClient c = new OkHttpClient();
